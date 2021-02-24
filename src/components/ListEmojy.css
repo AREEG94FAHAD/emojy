@@ -1,0 +1,11 @@
+.emojy{
+    display: inline-block;
+    width: 50px;
+    height: 60px;
+    border: 1px solid #eee;
+    box-shadow: 2px 2px 2px 2px #eee;
+    padding: 16px;
+    margin: 16px;
+    text-align: center;
+    font-size: xx-large;
+}

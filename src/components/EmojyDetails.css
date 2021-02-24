@@ -1,0 +1,19 @@
+.details {
+  display: inline-block;
+  width: 500px;
+  height: 200px;
+  border: 1px solid #eee;
+  box-shadow: 2px 2px 2px 2px #eee;
+  padding: 16px;
+  margin: auto;
+  text-align: center;
+  font-size: large;
+}
+.mainDiv {
+  margin: auto;
+  margin-top: 50px;
+ 
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
