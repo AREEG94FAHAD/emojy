@@ -8,4 +8,9 @@
     margin: 16px;
     text-align: center;
     font-size: xx-large;
+    
+}
+.main{
+    
+    justify-content: center;
 }

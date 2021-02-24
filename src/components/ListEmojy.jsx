@@ -15,7 +15,7 @@ function ListEmojy() {
   console.log(state.fetchData);
 
   return (
-    <div>
+    <div className="main">
       {!state.fetchData
         ? ""
         : state.fetchData.map((i, index) => (
